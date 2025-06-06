@@ -55,6 +55,8 @@ Here you’ll find some of my work, projects, and tech stack details. 🚀
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
