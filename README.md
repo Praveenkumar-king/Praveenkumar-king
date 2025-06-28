@@ -22,13 +22,6 @@ Here you’ll find some of my work, projects, and tech stack details. 🚀
 
 ---
 
-## 🌟 Personal Favicon / Emoji Branding
-
-✨⚡🧠💻🎨🚀🧑‍💼  
-*A fusion of creativity, logic, and curiosity*
-
----
-
 ## 🛠️ My Tech Stack
 
 **Languages & Technologies**  
