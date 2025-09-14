@@ -81,6 +81,7 @@ Here you’ll find some of my work, projects, and tech stack details. 🚀
 - 👨‍💻 GitHub: [Praveenkumar-king](https://github.com/Praveenkumar-king)
 - 💼 LinkedIn: [praveenkumarbofficial](https://www.linkedin.com/in/praveenkumarbofficial/)
 - 🔗 LeetCode: [praveen_304](https://leetcode.com/u/praveen_304/)
+- 🌐 Personal Website: [Praveen Kumar B](https://praveen-kumar-b.web.app/)
 
 ---
 
