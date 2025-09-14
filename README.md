@@ -4,7 +4,7 @@
 ## 👋 Welcome to My GitHub Profile!
 
 ### 🧑‍💼 Praveen Kumar B  
-🎯 *Web Developer* | *Software Engineer* | *Software Developer* | *Canva Designer*
+🎯 *Software Developer* | *Software Engineer* | *Web Developer* | *Canva Designer*
 
 Hello! I'm **Praveen Kumar**, a passionate **web developer**, **software engineer**, and **Canva designer** focusing on both **frontend** and **backend** technologies.  
 Here you’ll find some of my work, projects, and tech stack details. 🚀
