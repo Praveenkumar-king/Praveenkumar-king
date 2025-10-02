@@ -6,7 +6,7 @@
 ### 🧑‍💼 Praveen Kumar B  
 🎯 *Software Developer* | *Software Engineer* | *Web Developer* | *Canva Designer*
 
-Hello! I'm **Praveen Kumar**, a passionate **web developer**, **software engineer**, and **Canva designer** focusing on both **frontend** and **backend** technologies.  
+Hello! I'm **Praveen Kumar**, a passionate **Software Developer**, **Web Developer**, and **Canva designer** focusing on both **frontend** and **backend** technologies.  
 Here you’ll find some of my work, projects, and tech stack details. 🚀
 
 ---
@@ -97,5 +97,5 @@ Here are some of the badges I've earned on Infosys Springboard:
 
 ## 💬 Let’s Talk!
 
-I'm always open to discussions on **web development**, **software engineering**, **design**, and **tech innovations**.  
+I'm always open to discussions on **Software Development**, **Web Development**, **design**, and **tech innovations**.  
 If you'd like to collaborate or just connect, feel free to reach out! 🚀💻🎯
